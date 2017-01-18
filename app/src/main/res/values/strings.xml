@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FCM App Server</string>
+    <string name="fcm_pref">ninja.paranoidandroid.fcm.pref</string>
+    <string name="fcm_token">ninja.paranoidandroid.fcm.token</string>
+</resources>

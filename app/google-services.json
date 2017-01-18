@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1025762880163",
+    "firebase_url": "https://testtaskapp-5b2d2.firebaseio.com",
+    "project_id": "testtaskapp-5b2d2",
+    "storage_bucket": "testtaskapp-5b2d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025762880163:android:5e0cbd86a9188046",
+        "android_client_info": {
+          "package_name": "ninja.paranoidandroid.fcmappserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025762880163-tf45ia5p6413icq8cqkua52bto6451bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4DoW43VZZB-osyZrIcwBAmH22ynLV5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
